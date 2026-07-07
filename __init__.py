@@ -19,7 +19,7 @@ Example:
 """
 
 __version__ = "1.0.0"
-__author__ = "Payam"
+__author__ = "Optimization Team"
 
 # Import main functions for easy access
 from optimization_core import run_optimization

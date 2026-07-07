@@ -1,0 +1,9 @@
+# Core numerical and scientific computing packages
+numpy>=1.21.0
+scipy>=1.7.0
+
+# Visualization
+matplotlib>=3.4.0
+
+# Convex optimization (includes OSQP, ECOS, SCS, Clarabel solvers)
+cvxpy>=1.2.0
